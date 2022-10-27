@@ -2,6 +2,11 @@
 
 some (hopefully) useful scripts
 
+## manage-deb-repo.sh
+
+due to a heavy re-write this is currently **WIP** and so **not ready for productive use** yet.
+
+It is a tool for syncing debian mirrors to a local folder by APTLY. On top of that this can be used to add your local custom repos as well (once finished).
 
 ## ufw-dyndns-updater.sh
 
